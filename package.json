@@ -1,0 +1,14 @@
+{
+  "name": "demande-de-stage",
+  "version": "1.0.0",
+  "description": "Demande de stage ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oumeima RACHDI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
